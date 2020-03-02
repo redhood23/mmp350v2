@@ -1,13 +1,13 @@
 .post,
 input {
-	font-family: 'Yanone Kaffeesatz', sans-serif;
+	font-family: 'Trade Winds', 'Odibee Sans;
 }
 
 h1,
 button,
 a,
 .post-date {
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family: 'Odibee Sans', 'Trade Winds';
 }
 
 button {
@@ -24,16 +24,16 @@ button {
 }
 
 .post-info {
-	color: coral;
+	color: blueviolet;
 }
 
 .post-author {
 	font-size: 15px;
-	color: saddlebrown;
+	color: darkred;
 }
 
 .post-author strong {
-	color: darkcyan;
+/*	color: darkcyan;*/
 }
 
 .post-date {
