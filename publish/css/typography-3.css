@@ -1,0 +1,41 @@
+.post,
+input {
+	font-family: 'Trade Winds', 'Odibee Sans;
+}
+
+h1,
+button,
+a,
+.post-date {
+	font-family: 'Odibee Sans', 'Trade Winds';
+}
+
+button {
+	font-size: 1.125em;
+}
+
+
+.post {
+	line-height: 1.2;
+}
+
+.post-text {
+	font-size: 1.25em;
+}
+
+.post-info {
+	color: blueviolet;
+}
+
+.post-author {
+	font-size: 15px;
+	color: darkred;
+}
+
+.post-author strong {
+/*	color: darkcyan;*/
+}
+
+.post-date {
+	font-size: 12px;
+}

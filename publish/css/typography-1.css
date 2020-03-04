@@ -1,0 +1,51 @@
+
+
+
+
+
+
+
+.post,
+input {
+	font-family: 'Satisfy', sans-serif ;
+
+}
+
+h1,
+button,
+a,
+.post-date {
+	font-family: 'Open Sans',sans-serif ;
+	font-size: 1.5em;
+}
+
+button {
+	font-size: 1em;
+}
+
+
+.post {
+	line-height: 1.5;
+}
+
+.post-text {
+	font-size: 1.7em;
+	text-shadow: 4px 4px 4px  #aeb6bf;
+
+}
+
+.post-info {
+	color: skyblue;
+}
+
+.post-author {
+	color: yellowgreen;
+}
+
+.post-author strong {
+	color:  orangered;
+}
+
+.post-date {
+	font-size: .8em;
+}

@@ -1,0 +1,41 @@
+.post,
+input {
+	font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+h1,
+button,
+a,
+.post-date {
+	font-family: 'Source Sans Pro', sans-serif;
+}
+
+button {
+	font-size: 1.125em;
+}
+
+
+.post {
+	line-height: 1.2;
+}
+
+.post-text {
+	font-size: 1.25em;
+}
+
+.post-info {
+	color: coral;
+}
+
+.post-author {
+	font-size: 15px;
+	color: saddlebrown;
+}
+
+.post-author strong {
+	color: darkcyan;
+}
+
+.post-date {
+	font-size: 12px;
+}
